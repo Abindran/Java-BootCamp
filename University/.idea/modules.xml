@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/progs/Compare2Nums/Compare2Nums.iml" filepath="$PROJECT_DIR$/progs/Compare2Nums/Compare2Nums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/progs/EvenNumbers/EvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/progs/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/FahrenheitToCelsius/FahrenheitToCelsius.iml" filepath="$PROJECT_DIR$/progs/FahrenheitToCelsius/FahrenheitToCelsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/GradeGreetings/GradeGreetings.iml" filepath="$PROJECT_DIR$/progs/GradeGreetings/GradeGreetings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/progs/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/PatternTriangle/PatternTriangle.iml" filepath="$PROJECT_DIR$/progs/PatternTriangle/PatternTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/RandomNums/RandomNums.iml" filepath="$PROJECT_DIR$/progs/RandomNums/RandomNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/PatternTriangle/Triangle2/Triangle2.iml" filepath="$PROJECT_DIR$/progs/PatternTriangle/Triangle2/Triangle2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/PatternTriangle/Triangle3/Triangle3.iml" filepath="$PROJECT_DIR$/progs/PatternTriangle/Triangle3/Triangle3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/University.iml" filepath="$PROJECT_DIR$/.idea/University.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/largestOf3Nums/largestOf3Nums.iml" filepath="$PROJECT_DIR$/progs/largestOf3Nums/largestOf3Nums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progs/progs.iml" filepath="$PROJECT_DIR$/progs/progs.iml" />
+    </modules>
+  </component>
+</project>

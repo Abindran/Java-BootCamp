@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arithematic/Arithematic.iml" filepath="$PROJECT_DIR$/Arithematic/Arithematic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayExcercise/ArrayExcercise.iml" filepath="$PROJECT_DIR$/ArrayExcercise/ArrayExcercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListAdvanced/ArrayListAdvanced.iml" filepath="$PROJECT_DIR$/ArrayListAdvanced/ArrayListAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListSample/ArrayListSample.iml" filepath="$PROJECT_DIR$/ArrayListSample/ArrayListSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayType/ArrayType.iml" filepath="$PROJECT_DIR$/ArrayType/ArrayType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/ClassDemo/ClassDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core.iml" filepath="$PROJECT_DIR$/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geny/Geny.iml" filepath="$PROJECT_DIR$/Geny/Geny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetterSetter/GetterSetter.iml" filepath="$PROJECT_DIR$/GetterSetter/GetterSetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxyFinder/MaxyFinder.iml" filepath="$PROJECT_DIR$/MaxyFinder/MaxyFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" filepath="$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveDataType/PrimitiveDataType.iml" filepath="$PROJECT_DIR$/PrimitiveDataType/PrimitiveDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/TryCatch/TryCatch.iml" />
+    </modules>
+  </component>
+</project>

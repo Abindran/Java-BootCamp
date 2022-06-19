@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Compare2Nums/Compare2Nums.iml" filepath="$PROJECT_DIR$/Compare2Nums/Compare2Nums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateDayFinder/DateDayFinder.iml" filepath="$PROJECT_DIR$/DateDayFinder/DateDayFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MalURL/MalURL.iml" filepath="$PROJECT_DIR$/MalURL/MalURL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Progs.iml" filepath="$PROJECT_DIR$/Progs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+    </modules>
+  </component>
+</project>
